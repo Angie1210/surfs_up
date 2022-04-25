@@ -20,7 +20,7 @@ We used SQLalchemy to retrieve SQLite database, got June and December temperatur
 ![Screen Shot 2022-04-24 at 7 28 41 PM](https://user-images.githubusercontent.com/43548929/165010823-f2f9b48b-6bed-412a-bb39-2a696c24af7d.png)
 
 ![Screen Shot 2022-04-24 at 7 29 02 PM](https://user-images.githubusercontent.com/43548929/165010852-46d12bae-cb93-41d8-aba4-e17e43befeac.png)
-* Also I got the statistics of June's precipitation and found out that precipiation is really low on June.
+* Also I got the statistics of June's precipitation and found out that precipiation is really low in June.
 
 ![Screen Shot 2022-04-24 at 7 54 04 PM](https://user-images.githubusercontent.com/43548929/165013034-41a1b295-b49f-41ce-9842-8be5985d3a69.png)
 * The main concern is the rain, at it seems that the probability of raining is really low. The temperature in average are between 70 and 75, it seems good for the surfing business but I'm not sure about the ice cream, it can be kind of cold. I would suggest offering either beer or coffee to our surfing customers.
